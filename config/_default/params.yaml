@@ -7,18 +7,18 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
+  theme_night: minimal
+  font: minimal
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -34,12 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -63,10 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
@@ -111,8 +109,8 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
+# Security
 
-publications:
-  date_format: January 2006
-  citation_style: apa
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
