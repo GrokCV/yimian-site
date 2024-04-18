@@ -130,4 +130,5 @@ social:
 highlight_name: true
 ---
 
-Yimian Dai is a postdoctoral fellow at the PCA Lab, supervised by [Prof. Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST. His vice-advisor is [Prof. Xiang Li](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He leads the GrokCV subgroup, which develops algorithms for remote sensing object detection, climatic monitoring, and computational imaging. {style="text-align: justify;"}
+Yimian Dai is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He heads the GrokCV subgroup, which specializes in the development of algorithms for remote sensing object detection, climatic monitoring, and computational imaging, aiming to address real-world challenges in these fields.
+{style="text-align: justify;"}
