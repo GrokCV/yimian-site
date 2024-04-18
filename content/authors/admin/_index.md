@@ -3,11 +3,11 @@
 title: 戴一冕
 
 # Name pronunciation (optional)
-name_pronunciation: Yi Mian Dai
+name_pronunciation: Yimian Dai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yimian
+last_name: Dai
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University of Science and Technology
+  - name: Nanjing University of Science and Technology (NJUST)
     url: https://english.njust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -130,5 +130,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Yimian Dai is a postdoctoral fellow at the PCA Lab, supervised by [Prof. Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST. His vice-advisor is [Prof. Xiang Li](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He leads the GrokCV subgroup, which develops algorithms for remote sensing object detection, climatic monitoring, and computational imaging. {style="text-align: justify;"}
