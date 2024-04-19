@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 戴一冕
+title: Yimian Dai
 
 # Name pronunciation (optional)
-name_pronunciation: Yimian Dai
+# name_pronunciation: Yimian Dai
 
 # Full name (for SEO)
 first_name: Yimian
@@ -130,5 +130,5 @@ social:
 highlight_name: true
 ---
 
-Yimian Dai is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the GrokCV subgroup, which specializes in the development of algorithms for remote sensing object detection, climatic monitoring, and computational imaging, aiming to address real-world challenges in these fields.
+Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the GrokCV subgroup, which specializes in the development of algorithms for remote sensing object detection, climatic monitoring, and computational imaging, aiming to address real-world challenges in these fields.
 {style="text-align: justify;"}
