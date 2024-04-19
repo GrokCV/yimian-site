@@ -41,7 +41,7 @@ links:
     url: https://space.bilibili.com/833564
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2023-11-03-HADAR-Slides.pdf'
 url_video: 'https://www.bilibili.com/video/BV1nG411X7kF/'
 
 # Markdown Slides (optional).
