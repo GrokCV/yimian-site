@@ -2,11 +2,11 @@
 title: "One-Stage Cascade Refinement Networks for Infrared Small Target Detection"
 authors:
 - admin
-- [Xiang Li#](https://implus.github.io/)
+- Xiang Li
 - Fei Zhou
 - Yulei Qian
 - Yaohong Chen
-- Jian Yang#
+- Jian Yang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
