@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: 【文献分享 | Nature 封面文章】Heat-Assisted Detection And Ranging - Part I
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: GrokCV Seminar
+event_url: 
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Tencent Meeting
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 关于红外成像领域突破性成果 HADAR 的文献分享.
+abstract: 介绍一下对于 2023 年 7 月 Nature 封面文章《Heat-Assisted Detection And Ranging》的粗浅理解，上传视频主要包括以下内容：(1) Amazing Breakthrough：介绍下 HADAR 取得了怎样的突破；(2) Thermal Infrared Signal Model：介绍下为何现在的红外图像都是没有颜色、少 / 没有纹理的；(3) Research Goals and Challenges：HADAR 所要实现的目标及其理论挑战；(4) Methods：HADAR 是如何实现该目标的。由于个人水平有限，所以只介绍论文内容目前看了的一部分，所以还只是 Part I。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-11-03T19:00:00Z'
+date_end: '2023-11-03T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-04T07:00:00Z'
 
 authors: []
 tags: []
@@ -31,18 +31,18 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://space.bilibili.com/833564
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV1nG411X7kF/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
