@@ -98,9 +98,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GrokCV
-    label: Follow me on Twitter
-    display:
-      header: true
+    # label: Follow me on Twitter
+    # display:
+    #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
@@ -113,6 +113,9 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564
+    label: Follow me on bilibili
+    display:
+      header: true
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/grokcv
