@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: GrokCV # Website name
-baseURL: 'https://yimian.grokcv.ai/' # Website URL
+baseURL: 'https://grokcv.ai/' # Website URL
 
 ############################
 ## LANGUAGE
