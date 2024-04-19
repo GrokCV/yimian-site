@@ -2,7 +2,7 @@
 title: 【文献分享 | Nature 封面文章】Heat-Assisted Detection And Ranging - Part I
 
 event: GrokCV Seminar
-event_url: 
+event_url: https://space.bilibili.com/833564
 
 location: Tencent Meeting
 # address:
@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://space.bilibili.com/833564
-url_code: ''
-url_pdf: ''
+url_code: 'https://github.com/FanglinBao/HADAR'
+url_pdf: 'https://www.nature.com/articles/s41586-023-06174-6'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2023-11-03-HADAR-Slides.pdf'
 url_video: 'https://www.bilibili.com/video/BV1nG411X7kF/'
 
@@ -49,7 +49,7 @@ url_video: 'https://www.bilibili.com/video/BV1nG411X7kF/'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://github.com/GrokCV/Slides/blob/master/Yimian/2023-11-03-HADAR-Slides.pdf
+slides: "https://github.com/GrokCV/Slides/blob/master/Yimian/2023-11-03-HADAR-Slides.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -60,14 +60,3 @@ projects:
 #   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
