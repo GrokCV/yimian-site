@@ -7,9 +7,13 @@ authors:
 - Yulei Qian
 - Yaohong Chen
 - Jian Yang
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- 
+- "Corresponding Author"
+- 
+- 
+- 
+- "Corresponding Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
