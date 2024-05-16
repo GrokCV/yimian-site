@@ -41,7 +41,7 @@ links:
     url: https://underline.io/lecture/13185-attention-as-activation
 url_code: 'https://github.com/YimianDai/open-atac'
 url_pdf: 'https://arxiv.org/pdf/2007.07729'
-url_slides: ''
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2021-01-10-ICPR%20ATAC.pdf'
 url_video: 'https://underline.io/lecture/13185-attention-as-activation'
 
 # Markdown Slides (optional).
