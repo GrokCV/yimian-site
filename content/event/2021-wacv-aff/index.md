@@ -2,9 +2,9 @@
 title: 【WACV 2021 Oral】Attentional Feature Fusion
 
 event: WACV 2021
-event_url: https://www.youtube.com/watch?v=zkM2QGKLDuc
+event_url: https://wacv2021.thecvf.com/home
 
-location: Virtual
+location: Virtual, Honolulu, Hawaii
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

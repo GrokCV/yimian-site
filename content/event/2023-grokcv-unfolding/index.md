@@ -4,7 +4,7 @@ title: 【文献梳理】稀疏表示优化求解：从凸优化到深度展开
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 
-location: Tencent Meeting
+location: Virtual, Tencent Meeting
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

@@ -4,7 +4,7 @@ title: 【文献分享 | Nature 封面文章】Heat-Assisted Detection And Rangi
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 
-location: Tencent Meeting
+location: Virtual, Tencent Meeting
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
