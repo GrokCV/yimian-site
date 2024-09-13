@@ -95,12 +95,12 @@ social:
     icon_pack: fas
     link: 'mailto:yimian.dai@gmail.com'
     # link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GrokCV
-    label: Follow me on Twitter
-    display:
-      header: true
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GrokCV
+#     label: Follow me on Twitter
+#     display:
+#       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
@@ -116,9 +116,9 @@ social:
     # label: Follow me on bilibili
     # display:
     #   header: true
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/grokcv
+#  - icon: zhihu
+#    icon_pack: fab
+#    link: https://www.zhihu.com/people/grokcv
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
