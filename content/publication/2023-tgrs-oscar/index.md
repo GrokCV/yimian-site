@@ -1,5 +1,6 @@
 ---
 title: "One-Stage Cascade Refinement Networks for Infrared Small Target Detection"
+
 authors:
 - admin
 - Xiang Li
@@ -7,6 +8,7 @@ authors:
 - Yulei Qian
 - Yaohong Chen
 - Jian Yang
+
 author_notes:
 - 
 - "Corresponding Author"
@@ -14,6 +16,7 @@ author_notes:
 - 
 - 
 - "Corresponding Author"
+
 date: "2023-02-06T13:37:23Z"
 doi: "10.1109/TGRS.2023.3243062"
 
@@ -36,6 +39,7 @@ summary: We propose OSCAR, a one-stage cascade refinement network for single-fra
 
 tags:
 - Infrared Small Target Detection
+
 featured: false
 
 # links:
