@@ -3,10 +3,10 @@ title: "DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Ta
 
 authors:
 - admin
-- MinruiZou
+- Minrui Zou
 - Yuxuan Li
 - Xiang Li
-- KangNi
+- Kang Ni
 - Jian Yang
 
 author_notes:

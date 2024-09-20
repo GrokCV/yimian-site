@@ -2,7 +2,7 @@
 title: "Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection"
 
 authors:
-- FeiZhou
+- Fei Zhou
 - Maixia Fu
 - Yulei Qian
 - Jian Yang

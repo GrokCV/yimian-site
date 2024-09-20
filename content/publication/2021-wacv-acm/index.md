@@ -7,7 +7,7 @@ title: "Asymmetric Contextual Modulation for Infrared Small Target Detection"
 authors:
 - admin
 - Yiquan Wu
-- FeiZhou
+- Fei Zhou
 - Kobus Barnard
 
 # Author notes (optional)
