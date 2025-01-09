@@ -18,12 +18,14 @@ author_notes:
 - Corresponding author
 
 date: "2024-06-05T00:00:00Z"
+doi: "10.1109/TAES.2024.3507786"
+
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-# publication_short: ""
+publication: "IEEE Transactions on Aerospace and Electronic Systems"
+publication_short: "IEEE TAES"
 
 # Publication name and optional abbreviated publication name.
 abstract: Synthetic Aperture Radar (SAR) target detection has long been impeded by inherentspeckle noise and the prevalence of diminutive, ambiauous targets, While deep neuranetworks have advanced SAR target detection, their intrinsic low-frequency bias andstatic post-training weights falter with coherent noise and preserving subtle detailsacross heterogeneous terrains. Motivated by traditional SAR image denoising, we propose DenoDet, a network aided by explicit frequency domain transform to calibrateconvolutional biases and pay more attention to high-frequencies, forming a natural multi.scale subspace representation to detect targets from the perspective of multi-subspacedenoising. We desian TransDeno, a dynamic frequency domain attention module that performs as a transform domain soft thresholding operation, dynamically denoisingacross subspaces by preserving salient target signals and attenuating noise. Toadaptively adjust the granularity of subspace processing, we also propose a deformablegroup fully-connected layer (DeGroFC) that dynamically varies the group conditioned onthe input features. Without bells and whistles, our plug-and-play TransDeno sets state-of.the-art scores on multiple SAR target detection datasets. The code is available at https://github.com/GrokCV/GrokSAR.
