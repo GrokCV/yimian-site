@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University of Science and Technology (NJUST)
-    url: https://english.njust.edu.cn/
+  - name: Nankai University
+    url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image restoration, object detection, and vision-language models.
@@ -133,5 +133,9 @@ social:
 highlight_name: true
 ---
 
-Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the [GrokCV Research Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields.
+<!-- Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the [GrokCV Research Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields. -->
+
+I, Yimian Dai (戴一冕), am currently an Associate Professor at the Visual Computing and Intelligent Perception (VCIP) Lab, College of Computer Science, Nankai University. I am proud to be a part of the team led by [Prof. Ming-Ming Cheng (程明明)](https://mmcheng.net/cmm/). Prior to my current role, I had the privilege of being a Postdoctoral Fellow at the PCA Lab, where I was fortunate to work under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from Nanjing University of Science and Technology (NJUST). His mentorship was invaluable to my growth as a researcher.
+
+Throughout my career, I have had the fortunate opportunity to collaborate closely with [Prof. Xiang Li (李翔)](https://implus.github.io/) from Nankai University and [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. As the head of the [GrokCV Research Group](https://grokcv.ai/), my research interests have evolved, now focusing on small target detection in remote sensing imagery, visual perception in adverse environments, and the integration of domestic hardware and software. My goal is to address real-world challenges in these fields.
 {style="text-align: justify;"}
