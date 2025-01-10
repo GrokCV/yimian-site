@@ -66,7 +66,7 @@ sections:
           company: Nankai University
           company_url: ''
           company_logo: nankai
-          location: Tianjin
+          location: Tianjin, China
           date_start: '2025-01-01'
           date_end: ''
           # description: |2-
@@ -79,9 +79,25 @@ sections:
           company: Nanjing University of Science and Technology
           company_url: ''
           company_logo: njust
-          location: Nanjing
+          location: Nanjing, China
           date_start: '2021-01-01'
           date_end: '2024-12-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Visiting PhD Student
+          company: University of Arizona
+          company_url: ''
+          company_logo: ua
+          location: Tucson, AZ, USA
+          date_start: '2018-10-26'
+          date_end: '2020-10-30'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Visiting PhD Student
+          company: University of Copenhagen
+          company_url: ''
+          company_logo: ucph
+          location: Copenhagen, Denmark
+          date_start: '2018-03-25'
+          date_end: '2018-09-30'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
