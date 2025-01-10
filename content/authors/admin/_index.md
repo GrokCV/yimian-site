@@ -3,7 +3,7 @@
 title: Yimian Dai
 
 # Name pronunciation (optional)
-# name_pronunciation: Yimian Dai
+name_pronunciation: 戴 一 冕
 
 # Full name (for SEO)
 first_name: Yimian
