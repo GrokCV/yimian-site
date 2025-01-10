@@ -137,6 +137,8 @@ I am currently an Associate Professor at the Visual Computing and Intelligent Pe
 Throughout my career, I have had the fortunate opportunity to collaborate closely with [Prof. Xiang Li (李翔)](https://implus.github.io/) from Nankai University and [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. As the head of the [GrokCV Research Group](https://grokcv.ai/), my research interests have evolved, now focusing on *Remote Sensing Object Detection*, *Visual Perception in Adverse Environments*, and *Efficient Deployment and Optimization within Domestic AI Ecosystem*. My goal is to address real-world challenges in these fields.
 {style="text-align: justify;"}
 
-戴一冕，南开大学副教授。长期专注于红外弱小目标检测研究，主持发布 [SIRST V1](https://github.com/YimianDai/sirst)、[SIRST V2](https://github.com/YimianDai/open-sirst-v2)、[DenseSIRST](https://github.com/GrokCV/DenseSIRST)、[HazyDet](https://github.com/GrokCV/HazyDet)、[GrokLST](https://github.com/GrokCV/GrokLST) 等多个开源数据集。主持国家自然科学青年基金、博士后面上项目、校企合作项目 5 项，主要成果发表在 IJCV、IEEE TGRS、IEEE TAES、IEEE TIM 等国际知名期刊共 15 篇。第一作者论文 11 篇，其中 ESI 高被引论文 5 篇，4 篇引用超过 400 次，单篇最高引用超 950 次，共计获得 3100 余次引用，2023、2024 连续入选斯坦福前 2% 顶尖科学家榜单。曾获河南省教育厅科技成果二等奖（排名第二）、首届粤港澳大湾区国际算法算例大赛遥感目标检测赛道亚军。
+戴一冕，南开大学副教授。长期专注于红外弱小目标检测研究，主持发布 [SIRST V1](https://github.com/YimianDai/sirst)、[SIRST V2](https://github.com/YimianDai/open-sirst-v2)、[DenseSIRST](https://github.com/GrokCV/DenseSIRST)、[HazyDet](https://github.com/GrokCV/HazyDet)、[GrokLST](https://github.com/GrokCV/GrokLST) 等多个开源数据集。主持国家自然科学青年基金、博士后面上项目、校企合作项目 5 项，主要成果发表在 IJCV、IEEE TGRS、IEEE TAES、IEEE TIM 等国际知名期刊共 15 篇。第一作者论文 11 篇，其中 ESI 高被引论文 5 篇，4 篇引用超过 400 次，单篇最高引用超 950 次，共计获得 3100 余次引用，2023、2024 连续入选[斯坦福前 2% 顶尖科学家榜单](https://topresearcherslist.com/Home/Profile/903200)。曾获河南省教育厅科技成果二等奖（排名第二）、首届粤港澳大湾区国际算法算例大赛遥感目标检测赛道亚军。
 {style="text-align: justify;"}
 
+更多信息，请移步 [GrokCV 小组主页](https://grokcv.ai/)。
+{style="text-align: justify;"}
