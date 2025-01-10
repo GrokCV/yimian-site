@@ -218,6 +218,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publication
     content:
       title: Selected Publications
       text: |-
