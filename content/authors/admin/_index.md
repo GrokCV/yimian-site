@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 戴一冕
+title: Yimian Dai
 
 # Name pronunciation (optional)
-name_pronunciation: Yimian Dai
+name_pronunciation: 戴一冕
 
 # Full name (for SEO)
 first_name: Yimian
