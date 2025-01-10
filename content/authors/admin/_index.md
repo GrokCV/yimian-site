@@ -142,3 +142,6 @@ Throughout my career, I have had the fortunate opportunity to collaborate closel
 
 更多信息，请移步 [GrokCV 小组主页](https://grokcv.ai/)。
 {style="text-align: justify;"}
+
+**长期招募具有自驱力的博士后、博士生、硕士生以及本科实习生，欢迎感兴趣的同学联系我**。
+{style="text-align: justify;"}
