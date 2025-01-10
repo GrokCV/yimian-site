@@ -38,16 +38,22 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Signal Processing
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: Dec, 2020
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    - course: BSc in Electrical Engineering
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: Jun, 2013
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+# courses:
+  #   - course: PhD in Signal Processing
+  #     institution: Nanjing University of Aeronautics and Astronautics
+  #     year: Dec, 2020
+  #   - course: BSc in Electrical Engineering
+  #     institution: Nanjing University of Aeronautics and Astronautics
+  #     year: Jun, 2013
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
