@@ -97,8 +97,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yimian.dai@gmail.com'
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  - icon: google-scholar
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
