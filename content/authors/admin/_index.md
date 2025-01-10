@@ -97,15 +97,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yimian.dai@gmail.com'
-    # link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GrokCV
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  # - icon: academicons/google-scholar
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: academicons/google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
@@ -141,7 +134,7 @@ highlight_name: true
 
 ## About Me
 
-I, Yimian Dai (戴一冕), am currently an Associate Professor at the Visual Computing and Intelligent Perception (VCIP) Lab, College of Computer Science, Nankai University. I am proud to be a part of the team led by [Prof. Ming-Ming Cheng (程明明)](https://mmcheng.net/cmm/). Prior to this, I had the privilege of being a Postdoctoral Fellow at the PCA Lab, where I was fortunate to work under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from Nanjing University of Science and Technology (NJUST). His mentorship was invaluable to my growth as a researcher.
+I am currently an Associate Professor at the Visual Computing and Intelligent Perception (VCIP) Lab, College of Computer Science, Nankai University. I am proud to be a part of the team led by [Prof. Ming-Ming Cheng (程明明)](https://mmcheng.net/cmm/). Prior to this, I had the privilege of being a Postdoctoral Fellow at the PCA Lab, where I was fortunate to work under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from Nanjing University of Science and Technology (NJUST). His mentorship was invaluable to my growth as a researcher.
 {style="text-align: justify;"}
 
 Throughout my career, I have had the fortunate opportunity to collaborate closely with [Prof. Xiang Li (李翔)](https://implus.github.io/) from Nankai University and [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. As the head of the [GrokCV Research Group](https://grokcv.ai/), my research interests have evolved, now focusing on *Remote Sensing Object Detection*, *Visual Perception in Adverse Environments*, and *Efficient Deployment and Optimization within Domestic AI Ecosystem*. My goal is to address real-world challenges in these fields.
