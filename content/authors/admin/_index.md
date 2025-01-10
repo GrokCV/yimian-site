@@ -37,7 +37,7 @@ interests:
   - Vision-Language Models
 
 # Education to show in About widget
-education:
+# education:
 courses:
     - course: PhD in Signal Processing
       institution: Nanjing University of Aeronautics and Astronautics
