@@ -14,10 +14,10 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Associate Professor
