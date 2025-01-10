@@ -65,7 +65,7 @@ sections:
         - title: Associate Professor
           company: Nankai University
           company_url: ''
-          company_logo: org-gc
+          company_logo: nankai
           location: Tianjin
           date_start: '2025-01-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Postdoctoral Fellow
           company: Nanjing University of Science and Technology
           company_url: ''
-          company_logo: org-x
+          company_logo: njust
           location: Nanjing
           date_start: '2021-01-01'
           date_end: '2024-12-31'
