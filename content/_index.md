@@ -118,13 +118,13 @@ sections:
         - date_end: ''
         # - certificate_url: https://www.cvmart.net/race/10345/base
           # date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-12-15'
           description: '100,000 RMB 奖金 (2nd/127 队伍)'
           # icon: coursera
           organization: 琶洲实验室 (黄埔）
           # organization_url: https://www.coursera.org
           title: 2022 年首届粤港澳大湾区国际算法算例大赛——遥感图像目标检测赛道亚军
-          url: ''
+          url: 'https://www.cvmart.net/race/10345/base'
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
