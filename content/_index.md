@@ -115,8 +115,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.cvmart.net/race/10345/base
-          date_end: ''
+        - date_end: ''
+        # - certificate_url: https://www.cvmart.net/race/10345/base
+          # date_end: ''
           date_start: '2021-01-25'
           description: '100,000 RMB 奖金 (2nd/127 队伍)'
           # icon: coursera
