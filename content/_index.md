@@ -124,18 +124,18 @@ sections:
           organization: The 27th International Conference on Pattern Recognition
         #   organization_url: https://www.edx.org
           title: Resource-Limited Infrared Small Target Detection Challenge Track 2 Lightweight Infrared Small Target Detection
-        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://limitirstd.github.io/
 
         - date_end: ''
         # - certificate_url: https://www.edx.org
           # date_end: ''
-          date_start: '2024-06-15'
-          description: 排名第二
+          date_start: '2024-06-30'
+          description: 科技成果二等奖，排名第二
         #   icon: edx
-          organization: 河南省教育厅科技成果二等奖
+          organization: 河南省教育厅
         #   organization_url: https://www.edx.org
           title: 复杂场景下基于非凸建模的红外暗弱小目标检测关键技术研发与应用
-        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://oss.henan.gov.cn/typtfile/20240702/b2b3af2a45ca4f5ca4c25e6c5f04d9a4.pdf
 
         - date_end: ''
         # - certificate_url: https://www.cvmart.net/race/10345/base
