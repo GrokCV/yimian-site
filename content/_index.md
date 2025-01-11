@@ -103,6 +103,7 @@ sections:
       columns: '2'
 
   - block: accomplishments
+    id: honor
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honor'

@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Honor
+    url: '#honor'
+    weight: 20
   - name: Publication
     url: '#publication'
-    weight: 20
+    weight: 30
   - name: Talk
     url: '#talks'
-    weight: 30
+    weight: 40
   - name: Blog
     url: '#blog'
-    weight: 40
+    weight: 50
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
