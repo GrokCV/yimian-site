@@ -149,7 +149,16 @@ sections:
           title: 2022 年首届粤港澳大湾区国际算法算例大赛——遥感图像目标检测赛道亚军
           url: 'https://www.cvmart.net/race/10345/base'
 
-
+        - date_end: ''
+        # - certificate_url: https://www.cvmart.net/race/10345/base
+          # date_end: ''
+          date_start: '2017-12-21'
+          description: '50,000 RMB 奖金，全国仅 50 名'
+          # icon: coursera
+          organization: 中国科协
+          # organization_url: https://www.coursera.org
+          title: 中国科协优秀中外青年交流计划（2017年度）
+          url: ''
 
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
