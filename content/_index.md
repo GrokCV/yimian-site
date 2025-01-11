@@ -115,8 +115,20 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_end: ''
+        # - certificate_url: https://www.edx.org
+          # date_end: ''
+          date_start: '2024-10-15'
+          description: 三等奖，指导老师
+        #   icon: edx
+          organization: The 27th International Conference on Pattern Recognition
+        #   organization_url: https://www.edx.org
+          title: Resource-Limited Infrared Small Target Detection Challenge Track 2 Lightweight Infrared Small Target Detection
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
+        - date_end: ''
+        # - certificate_url: https://www.edx.org
+          # date_end: ''
           date_start: '2024-06-15'
           description: 排名第二
         #   icon: edx
