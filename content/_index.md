@@ -115,6 +115,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2024-06-15'
+          description: 排名第二
+        #   icon: edx
+          organization: 河南省教育厅科技成果二等奖
+        #   organization_url: https://www.edx.org
+          title: 复杂场景下基于非凸建模的红外暗弱小目标检测关键技术研发与应用
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
         - date_end: ''
         # - certificate_url: https://www.cvmart.net/race/10345/base
           # date_end: ''
@@ -125,15 +135,9 @@ sections:
           # organization_url: https://www.coursera.org
           title: 2022 年首届粤港澳大湾区国际算法算例大赛——遥感图像目标检测赛道亚军
           url: 'https://www.cvmart.net/race/10345/base'
-        # - certificate_url: https://www.edx.org
-        #   date_end: ''
-        #   date_start: '2021-01-01'
-        #   description: Formulated informed blockchain models, hypotheses, and use cases.
-        #   icon: edx
-        #   organization: edX
-        #   organization_url: https://www.edx.org
-        #   title: Blockchain Fundamentals
-        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
+
+
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
