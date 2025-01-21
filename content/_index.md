@@ -119,6 +119,17 @@ sections:
         - date_end: ''
         # - certificate_url: https://www.edx.org
           # date_end: ''
+          date_start: '2025-01-14'
+          description: 一等奖，指导老师
+        #   icon: edx
+          organization: 吉林省工业和信息化厅、吉林省教育厅、共青团吉林省委员会
+        #   organization_url: https://www.edx.org
+          title: 第二届“吉林一号”杯卫星遥感应用青年创新创业大赛“高分辨率遥感影像全要素变化检测研究” 赛道
+          url: https://www.jl1mall.com/contest/
+
+        - date_end: ''
+        # - certificate_url: https://www.edx.org
+          # date_end: ''
           date_start: '2024-10-15'
           description: 三等奖，指导老师
         #   icon: edx
