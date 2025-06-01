@@ -120,7 +120,7 @@ sections:
         # - certificate_url: https://www.edx.org
           date_start: '2025-05-07'
           description: 赛道一冠军，赛道二亚军，最佳论文奖，指导老师
-          organization: 吉林省工业和信息化厅、吉林省教育厅、共青团吉林省委员会
+          organization: 中国电信 AI 研究院、国防科大
           title: CVPR 2025 Workshop | 第四届“反无人机”挑战赛
           url: https://mp.weixin.qq.com/s/dTWNLMgEzzBEDqJAEavGyg?scene=1
 
