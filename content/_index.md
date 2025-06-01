@@ -117,6 +117,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+        - date_end: ''
+        # - certificate_url: https://www.edx.org
+          # date_end: ''
+          date_start: '2025-05-07'
+          description: 赛道一冠军，赛道二亚军，最佳论文奖，指导老师
+          organization: 吉林省工业和信息化厅、吉林省教育厅、共青团吉林省委员会
+          title: CVPR 2025 Workshop | 第四届“反无人机”挑战赛
+          url: https://mp.weixin.qq.com/s/dTWNLMgEzzBEDqJAEavGyg?scene=1
+
+        - date_end: ''
         # - certificate_url: https://www.edx.org
           # date_end: ''
           date_start: '2025-01-14'
@@ -124,7 +134,7 @@ sections:
         #   icon: edx
           organization: 吉林省工业和信息化厅、吉林省教育厅、共青团吉林省委员会
         #   organization_url: https://www.edx.org
-          title: 第二届“吉林一号”杯卫星遥感应用青年创新创业大赛“高分辨率遥感影像全要素变化检测研究” 赛道
+          title: 第二届“吉林一号”杯卫星遥感应用青年创新创业大赛“高分辨率遥感影像全要素变化检测研究”赛道
           url: https://www.jl1mall.com/contest/
 
         - date_end: ''
@@ -168,7 +178,7 @@ sections:
           # icon: coursera
           organization: 中国科协
           # organization_url: https://www.coursera.org
-          title: 中国科协优秀中外青年交流计划（2017年度）
+          title: 中国科协优秀中外青年交流计划（2017 年度）
           url: ''
 
         # - certificate_url: https://www.datacamp.com
