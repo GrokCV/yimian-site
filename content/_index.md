@@ -117,9 +117,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-        - date_end: ''
         # - certificate_url: https://www.edx.org
-          # date_end: ''
           date_start: '2025-05-07'
           description: 赛道一冠军，赛道二亚军，最佳论文奖，指导老师
           organization: 吉林省工业和信息化厅、吉林省教育厅、共青团吉林省委员会
@@ -128,7 +126,6 @@ sections:
 
         - date_end: ''
         # - certificate_url: https://www.edx.org
-          # date_end: ''
           date_start: '2025-01-14'
           description: 一等奖，指导老师
         #   icon: edx
